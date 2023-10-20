@@ -16,7 +16,7 @@
 
 ### Demo Screeshots
 
-![Al fajer Desktop Demo](.0/des.png "Desktop Demo")
+![Al fajer Desktop Demo](../des.png "Desktop Demo")
 
 ### Prerequisites
 
