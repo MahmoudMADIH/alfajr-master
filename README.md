@@ -16,7 +16,7 @@
 
 ### Demo Screeshots
 
-![Pixology Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Al fajer Desktop Demo](.0/des.png "Desktop Demo")
 
 ### Prerequisites
 
