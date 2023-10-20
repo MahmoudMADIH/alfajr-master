@@ -4,9 +4,9 @@
   <br />
   <br />
 
-  <h2 align="center">Pixology - Digital Agency Website</h2>
+  <h2 align="center">AL fajr  - Digital Agency Website</h2>
 
-  Pixology is a fully responsive digital agency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  AL fajr is a fully responsive digital agency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
   <a href="https://keen-cactus-e27dc3.netlify.app/"><strong>➥ Live Demo</strong></a>
 
@@ -31,13 +31,13 @@ To run **Pixology** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/pixology.git
+sudo git clone https://github.com/MahmoudMADIH/alfajr-master.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/pixology.git
+git clone https://github.com/MahmoudMADIH/alfajr-master
 ```
 
 ### Contact
