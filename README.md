@@ -16,7 +16,7 @@
 
 ### Demo Screeshots
 
-![Pixology Desktop Demo](../des.png "Desktop Demo")
+![Pixology Desktop Demo](des.png "Desktop Demo")
 
 ### Prerequisites
 
