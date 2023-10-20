@@ -16,7 +16,7 @@
 
 ### Demo Screeshots
 
-![Pixology Desktop Demo](des.png "Desktop Demo")
+![ Alfajr  Desktop Demo](des.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -26,7 +26,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Pixology** locally, run this command on your git bash:
+To run **Al fajr** locally, run this command on your git bash:
 
 Linux and macOS:
 
